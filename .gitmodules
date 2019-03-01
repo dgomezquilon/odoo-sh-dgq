@@ -1,0 +1,4 @@
+[submodule "aselcis/analytic_debit_credit"]
+	path = aselcis/analytic_debit_credit
+	url = git@github.com:Aselcis-Consulting/analytic_debit_credit.git
+	branch = 12.0
