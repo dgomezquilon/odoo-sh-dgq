@@ -1,0 +1,4 @@
+[submodule "Aselcis-Consulting/sale-workflow"]
+	path = Aselcis-Consulting/sale-workflow
+	url = git@github.com:Aselcis-Consulting/sale-workflow.git
+	branch = 12.0
